@@ -6,7 +6,6 @@ def get_modules():
     # start list to hold module information
     module_list = []
 
-    # Part 1: get name of each module
     # Get name of first module
     module_name = input("Please enter the first module name (blank to finish): ")
 

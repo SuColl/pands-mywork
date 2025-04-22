@@ -1,4 +1,4 @@
-# This program builds on the function created in activity02.py. This program keeps displaying the menu until the user picks q. if the user chooses a then call a function called doAdd(), if the user chooses v then call a function called doView(). These functions are not yet defined. 
+# This program builds on the function created in activity02.py. This program keeps displaying the menu until the user picks q. if the user chooses a then call a function called do_add(), if the user chooses v then call a function called do_view(). These functions are not yet defined. 
 # author: Susan Collins
 
 def command_menu ():
