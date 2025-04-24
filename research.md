@@ -14,4 +14,6 @@ keyword arguments: https://docs.python.org/3/tutorial/controlflow.html#keyword-a
 
 ## week 07 - Files
 
+os path, isfile() https://www.geeksforgeeks.org/python-os-path-isfile-method/
+
 
